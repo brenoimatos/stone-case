@@ -2,6 +2,7 @@
 
 ## Data Intern Case Study
 This is a data challenge for intern applicants. The objective is to analyze data from a .CSV file.
+
 This data is fake generated and does not reflect our business, it's just an example for a case study purpose.  
 
 
